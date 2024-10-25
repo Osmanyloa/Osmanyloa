@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Osmanyloa
+- 👀 I’m interested about Machine Learning
